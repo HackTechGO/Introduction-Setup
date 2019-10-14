@@ -1,5 +1,5 @@
 # Introduction-Setup
-Introduction to Computer Science and Setup of Environment
+Introduction to Computer Science and Setup of Environment with Some Other Tips
 
 # A Short Introduction to Computer Science
 <ul>

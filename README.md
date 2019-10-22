@@ -24,7 +24,7 @@ Introduction to Computer Science and Setup of Environment with Some Other Tips
   <li>Compare developer tools. Check <a href="https://stackshare.io/">Stackshare</a></li>
 </ul>
 
-# The Art of Asking a Question:
+# The Art of Asking a Good Programming Question:
 <ul>
   <li><a href="https://www.evernote.com/shard/s386/u/0/sh/cfd98b48-6f78-4719-b935-9a41d1912172/33435794d51037e5942b8cc551e70b85">How to be great at asking coding questions<a></li>
     <li><a href="https://www.evernote.com/shard/s386/u/0/sh/d023cdb4-8bee-4f52-b41d-a215600b17fb/0d717de69a2e7b243540e2fd7a723ba4">15 Useful Code Sharing Websites for Web Developers</a></li>

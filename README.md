@@ -14,7 +14,7 @@ Introduction to Computer Science and Setup of Environment with Some Other Tips
   <li>Slack for communication. Install the <a href="https://slack.com/intl/en-no/downloads/">APP</a> both on your PC/Mac and phone! Then join the <a href="#">GROUP</a></li>
   <li>Trello for agile management. Sign up <a href="https://trello.com/">HERE </a>and wait for the invitation ;)</li>
 </ul>
-https://www.classcentral.com/
+
 # Some Useful Tools:
 <ul>
   <li>Get Lighitshot for screenshots. Download it <a href="https://app.prntscr.com/en/">HERE</a></li>

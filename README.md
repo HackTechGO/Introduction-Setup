@@ -14,7 +14,7 @@ Introduction to Computer Science and Setup of Environment with Some Other Tips
   <li>Slack for communication. Install the <a href="https://slack.com/intl/en-no/downloads/">APP</a> both on your PC/Mac and phone! Then join the <a href="#">GROUP</a></li>
   <li>Trello for agile management. Sign up <a href="https://trello.com/">HERE </a>and wait for the invitation ;)</li>
 </ul>
-
+https://www.classcentral.com/
 # Some Useful Tools:
 <ul>
   <li>Get Lighitshot for screenshots. Download it <a href="https://app.prntscr.com/en/">HERE</a></li>
@@ -22,6 +22,11 @@ Introduction to Computer Science and Setup of Environment with Some Other Tips
   <li>Get ColorZilla to pick colors. Check <a href="https://www.colorzilla.com/chrome/">ColorZilla</a></li>
   <li>Get flux bluelight filter. Check <a href="https://justgetflux.com/">Flux</a></li>
   <li>Compare developer tools. Check <a href="https://stackshare.io/">Stackshare</a></li>
+</ul>
+
+# (Mostly Free!) Online Courses:
+<ul>
+  <li><a href="https://www.classcentral.com/">Class central</a></li>
 </ul>
 
 # The Art of Asking a Good Programming Question:

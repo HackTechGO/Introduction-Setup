@@ -1,12 +1,6 @@
 # Introduction-Setup
 Introduction to Computer Science and Setup of Environment with Some Other Tips
 
-# A Short Introduction to Computer Science
-<ul>
-  <li>Watch this: <a href="https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-">How Computers Work</a></li>
-  <li><a href=""></a></li>
-</ul>
-
 # Environment Setup:
 <ul>
   <li>Get a relevent browser. Download <a href="https://www.google.com/chrome/">Chrome </a></li>
@@ -22,6 +16,12 @@ Introduction to Computer Science and Setup of Environment with Some Other Tips
   <li>Get ColorZilla to pick colors. Check <a href="https://www.colorzilla.com/chrome/">ColorZilla</a></li>
   <li>Get flux bluelight filter. Check <a href="https://justgetflux.com/">Flux</a></li>
   <li>Compare developer tools. Check <a href="https://stackshare.io/">Stackshare</a></li>
+</ul>
+
+# A Short Introduction to Computer Science
+<ul>
+  <li>Watch this: <a href="https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-">How Computers Work</a></li>
+  <li><a href=""></a></li>
 </ul>
 
 # (Mostly Free!) Online Courses:

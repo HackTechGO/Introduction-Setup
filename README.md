@@ -1,7 +1,7 @@
 # Introduction-Setup
 Introduction to Computer Science and Setup of Environment with Some Other Tips
 
-# Environment Setup:
+# Environment Setup (MUST):
 <ul>
   <li>Get a relevent browser. Download <a href="https://www.google.com/chrome/">Chrome </a></li>
   <li>VSCode editor for coding. Follow ALL STEPS till "Creating your JavaScript file"-part. Check <a href="https://github.com/HackTechGO/fundamentals/tree/master/VSCodeTips">THIS </a>out</li>
@@ -16,17 +16,15 @@ Introduction to Computer Science and Setup of Environment with Some Other Tips
   <li>Get ColorZilla to pick colors. Check <a href="https://www.colorzilla.com/chrome/">ColorZilla</a></li>
   <li>Get flux bluelight filter. Check <a href="https://justgetflux.com/">Flux</a></li>
   <li>Compare developer tools. Check <a href="https://stackshare.io/">Stackshare</a></li>
+  <li><a href="https://www.typingclub.com/sportal/">Type faster!</a></li>
+  <li><a href="https://coderadio.freecodecamp.org/">Coding music</a></li>
 </ul>
 
 # A Short Introduction to Computer Science
 <ul>
   <li>Watch this: <a href="https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-">How Computers Work</a></li>
-  <li><a href=""></a></li>
-</ul>
-
-# (Mostly Free!) Online Courses:
-<ul>
-  <li><a href="https://www.classcentral.com/">Class central</a></li>
+  <li><a href="https://www.sololearn.com/">SoloLearn - a beginner app to learn programming</a></li>
+  <li><a href="https://www.edx.org/course/introduction-to-computer-science-2">Introduction to Computer Science (strongly recommended if you are keen)</a></li>
 </ul>
 
 # The Art of Asking a Good Programming Question:

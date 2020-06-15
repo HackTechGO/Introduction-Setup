@@ -6,7 +6,7 @@ Introduction to Computer Science and Setup of Environment with Some Other Tips
   <li>Get a relevent browser. Download <a href="https://www.google.com/chrome/">Chrome </a></li>
   <li>VSCode editor for coding. Follow ALL STEPS till "Creating your JavaScript file"-part. Check <a href="https://github.com/HackTechGO/fundamentals/tree/master/VSCodeTips">THIS </a>out</li>
   <li>Slack for communication. Install the <a href="https://slack.com/intl/en-no/downloads/">APP</a> both on your PC/Mac and phone! Then join the <a href="#">GROUP</a></li>
-  <li>Trello for agile project management. Sign up <a href="https://trello.com/">HERE </a>and wait for the invitation. In the meantime, watch this short video to learn two main methodologies in software development <a href="https://www.youtube.com/watch?v=rIaz-l1Kf8w">Kanban vs. Scrum</a></li>
+  <li>Trello for agile project management. Sign up <a href="https://trello.com/">HERE </a>and wait for the invitation. </li>
 </ul>
 
 # Some Useful Tools:
